@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Reut Nagar
 - ID#: 205437874
 - github username: reutnagar
-- Estimation of hours I worked on it: 
+- Estimation of hours I worked on it: about 40 minutes
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
